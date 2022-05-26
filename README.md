@@ -16,8 +16,6 @@ With so many stories out there, it won't be difficult to train the system with m
 
 This can be used if you're writing a story and struggling to come up with a title, whether you want to publish a book or simply hand in a school assignment. The user can input their story, or perhaps a few paragraphs outlining what the story is about, and wait for the magic to happen. If they don't like the result, they can try again until the system outputs a title that they do like. Or, they can use the system's suggestion and modify it slightly according to their own wishes. The uses are limitless!
 
-Describe the process of using the solution. In what kind situations is the solution needed (environment, time, etc.)? Who are the users, what kinds of needs should be taken into account?
-
 ## Data sources and AI methods
 
 Training data can be found almost anywhere - there are thousands if not millions of stories out there, on websites such as Archive of Our Own, FanFiction, Wattpad, etc. Novels can be used to train the system too. Moreover, the system can learn from the test data - once a title is decided for a story that a user asked for, it can be added to the training data to be used for future reference.
