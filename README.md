@@ -4,7 +4,7 @@ Building AI course project
 
 ## Summary
 
-This software will go through a story to figure out what it is about and come up with a catchy title for the story without you having to go through the effort of thinking of something yourself. It can use currently existing stories as a wide range of training data to understand how titles are made and what relation they have to the story.
+This software will go through a story to figure out what it is about and come up with a catchy title for the story without you having to go through the effort of thinking of something yourself. It can use currently existing stories as a wide range of training data to understand how titles are made and what relations they have to the story.
 
 ## Background
 
